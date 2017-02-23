@@ -165,6 +165,7 @@ void vendor_load_properties()
 
     property_set("ro.product.device", device);
     property_set("ro.build.product", device);
+    property_set("ro.product.model", sku.c_str());
     property_set("ro.build.description", description);
     property_set("ro.build.fingerprint", fingerprint);
     property_set("ro.mot.build.customerid", customerid);
