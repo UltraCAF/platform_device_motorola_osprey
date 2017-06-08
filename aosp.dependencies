@@ -1,0 +1,21 @@
+[
+  {
+    "remote": "github",
+    "repository":  "Ahmed-Hady/android_device_motorola_msm8916-common",
+    "target_path": "device/motorola/msm8916-common",
+    "branch": "n-mr1"
+  }
+  {
+    "remote": "github",
+    "repository":  "Ahmed-Hady/android_kernel_motorola_msm8916",
+    "target_path": "device/motorola/msm8916-common",
+    "branch": "N"
+  }
+  {
+    "remote": "github",
+    "repository":  "Ahmed-Hady/vendor_motorola",
+    "target_path": "vendor/motorola",
+    "branch": "cm-14.1"
+  }
+]
+
