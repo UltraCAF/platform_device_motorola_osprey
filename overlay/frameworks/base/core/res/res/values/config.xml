@@ -47,4 +47,8 @@
 
     <!-- Is the battery LED intrusive? Used to decide if there should be a disable option -->
     <bool name="config_intrusiveBatteryLed">true</bool>
+
+    <!-- Set doze feature enabled by default in settings. -->
+    <bool name="config_doze_enabled_by_default">true</bool>
+
 </resources>
